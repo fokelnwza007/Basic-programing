@@ -1,4 +1,4 @@
-
+//สอบผ่านสอบตก
 function grade(homework: number, midterm: number, final: number ){
     let score: number = homework + midterm + final
 
