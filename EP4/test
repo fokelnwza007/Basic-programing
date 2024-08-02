@@ -1,0 +1,37 @@
+// const x: number = 999999999999999
+// const y: number = 9999999999999999
+
+// console.log(x)
+// console.log(y)
+
+// const z: number = 0.4 + 0.5
+// console.log(z)
+
+// const s: string = '45'
+// const y: number = 46
+
+// const s: string = '45.25'
+// console.log (Number(s))
+
+// const x: number = 46    
+// console.log (parseInt('46.95'))
+
+// function fixedDecinal (n: number, digit: number){
+//     const x = n.toFixed(digit)
+//     return x
+
+// }
+// console.log(fixedDecinal(50.10000000000000000, 15))
+
+// function fixednumber(z: number ){
+//         const x = z.toLocaleString()
+//         return x
+// }
+    
+//     console.log(fixednumber(9000))
+
+// const str:string = "Watcharapon"
+
+// console.log (str.indexOf('a'))
+
+
