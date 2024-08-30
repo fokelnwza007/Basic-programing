@@ -1,0 +1,45 @@
+// const animalName: string = 'หมุ*หมา*กา*ไก่'
+// const animalArry: string[] = animalName.split('*')
+
+// console.log('เดิม:',animalArry)
+
+// animalArry.pop() //ดึงไก่ออก
+
+// console.log('ดึงตัวท้าย:',animalArry)
+
+// animalArry.push('กาปิปาร่า')
+
+// console.log('.ใส่ใหม่:', animalArry)
+
+// animalArry.shift()
+
+// console.log('ดึงตัวหน้า:',animalArry)
+
+// animalArry.unshift('ยีราฟ')
+
+// console.log('ใส่ตัวหน้า:', animalArry)
+
+// console.log('เรียง ก - ฮ:', animalArry.sort())
+
+// console.log('เรียง ฮ - ก:', animalArry.reverse())
+
+// console.log('slice 0-2:', animalArry.slice())
+
+
+const fruits = ["Banana","Orange","Apple","Mango"]
+
+console.log('เรียง A - Z:',fruits.sort() )
+
+console.log('เรียง Z - A:', fruits.reverse())
+
+const me = {
+    firsName: "Watcharapon",
+    lastName: 'Kokaew',
+    age: 20
+}
+
+//ประวัติของฉัน
+
+//ชื่อ: Watcharapon
+// นามสกุล: Kokaew
+//อายุ: 20
